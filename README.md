@@ -104,6 +104,8 @@ Based on the sample data (45 orders):
 - **Peak demand:** 1 PM is the busiest hour of the day.
 - **Customer value:** One customer (Rohan) accounts for about 38% of total revenue.
 
+- **Recommendations:** reduce delays on bicycle routes, and look at why the cancellation rate is so high.
+
 ---
 
 ## Assumptions
