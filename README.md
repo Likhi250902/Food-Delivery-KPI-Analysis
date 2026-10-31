@@ -1,4 +1,3 @@
-# Food-Delivery-KPI-Analysis
 # Food Delivery KPI Analysis (SQL Server)
 
 An end-to-end SQL project that analyses a food delivery platform. It covers database design, sample data, and **25 business KPIs** written in T-SQL.
@@ -18,7 +17,7 @@ A food delivery company wants to understand how its business is performing. The 
 This project answers those questions using SQL only.
 
 ---
-
+## Database Design
 
 | Table | Description | Key columns |
 |-------|-------------|-------------|
@@ -45,13 +44,12 @@ This project answers those questions using SQL only.
 
 1. Open **SQL Server Management Studio** and connect to your server.
 2. Open and execute the files in this order (press **F5**):
-   1. `01_schema.sql`
-   2. `02_insert_data.sql`
-   3. `03_more_orders.sql`
-   4. `04_kpi_queries.sql`
-3. In `04_kpi_queries.sql`, highlight one query at a time and press **F5** to see its result.
+   1. `SQLQuery1 (Schema).sql`
+   2. `SQLQuery2 (Insert Data)`
+   3. `SQLQuery3 (KPI Queries)`
+3. In `SQLQuery3 (KPI Queries)`, highlight one query at a time and press **F5** to see its result.
 
-To start over, run `01_schema.sql` again. It drops and recreates the tables, then reload files 02 and 03.
+To start over, run `SQLQuery1 (Schema)` again. It drops and recreates the tables, then reload files 02 and 03.
 
 ---
 
