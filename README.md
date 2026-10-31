@@ -44,9 +44,9 @@ This project answers those questions using SQL only.
 
 1. Open **SQL Server Management Studio** and connect to your server.
 2. Open and execute the files in this order (press **F5**):
-   1. [SQLQuery1 (Schema.sql)](SQLQuery1(Schema).sql)
-   2. [SQLQuery2 (Insert Data.sql)](SQLQuery2(InsertData).sql)
-   3. [SQLQuery3 (KPI Queries.sql)](SQLQuery1(KPIQueries).sql)
+   1. [SQLQuery1 (Schema).sql](SQLQuery1(Schema).sql)
+   2. [SQLQuery2 (Insert Data).sql](SQLQuery2(InsertData).sql)
+   3. [SQLQuery3 (KPI Queries).sql](SQLQuery1(KPIQueries).sql)
 3. In `SQLQuery3 (KPI Queries)`, highlight one query at a time and press **F5** to see its result.
 
 To start over, run `SQLQuery1 (Schema)` again. It drops and recreates the tables, then reload files 02 and 03.
