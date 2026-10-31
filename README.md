@@ -45,7 +45,7 @@ This project answers those questions using SQL only.
 1. Open **SQL Server Management Studio** and connect to your server.
 2. Open and execute the files in this order (press **F5**):
    1. [SQLQuery1 (Schema).sql](https://github.com/Likhi250902/Food-Delivery-KPI-Analysis/blob/main/SQLQuery1%20(Schema).sql)
-   2. [SQLQuery2 (Insert Data).sql](SQLQuery2(InsertData).sql)
+   2. [SQLQuery2 (Insert Data).sql](https://github.com/Likhi250902/Food-Delivery-KPI-Analysis/blob/main/SQLQuery2(Insert%20Data).sql)
    3. [SQLQuery3 (KPI Queries).sql](SQLQuery1(KPIQueries).sql)
 3. In `SQLQuery3 (KPI Queries)`, highlight one query at a time and press **F5** to see its result.
 
