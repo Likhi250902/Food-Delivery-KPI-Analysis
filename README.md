@@ -32,7 +32,7 @@ This project answers those questions using SQL only.
 
 ## Project Structure
 
-| File | Purpose |
+| File | Purpose | 
 |------|---------|
 | `SQLQuery1 (Schema)` | Creates the database and tables |
 | `SQLQuery1 (Insert Data)` | Loads customers, restaurants, delivery partners and the first 5 orders |
@@ -44,9 +44,9 @@ This project answers those questions using SQL only.
 
 1. Open **SQL Server Management Studio** and connect to your server.
 2. Open and execute the files in this order (press **F5**):
-   1. `SQLQuery1 (Schema).sql`
-   2. `SQLQuery2 (Insert Data)`
-   3. `SQLQuery3 (KPI Queries)`
+   1. [SQLQuery1 (Schema.sql](SQLQuery1(Schema).sql)
+   2. [SQLQuery2 (Insert Data.sql](SQLQuery2(Insert Data).sql)
+   3. [SQLQuery3 (KPI Queries.sql](SQLQuery1(KPI Queries).sql)
 3. In `SQLQuery3 (KPI Queries)`, highlight one query at a time and press **F5** to see its result.
 
 To start over, run `SQLQuery1 (Schema)` again. It drops and recreates the tables, then reload files 02 and 03.
