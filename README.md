@@ -129,5 +129,5 @@ Based on the sample data (45 orders):
 ## Author
 
 **Likhitha Tervati**
-[LinkedIn:] (https:(//www.linkedin.com/in/likhitha-tervati-7383a7294/)
+[LinkedIn:] (https://www.linkedin.com/in/likhitha-tervati-7383a7294/)
 [GitHub:] (https://github.com/Likhi250902)
